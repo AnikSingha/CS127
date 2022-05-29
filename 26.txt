@@ -1,0 +1,7 @@
+#Name: Anik Singha
+#Email: anik.singha68@myhunter.cuny.edu
+#Date: September 14, 2021
+
+out1 = (in1 and in2)
+out2 = ((not in1 and in2) or (in1 and not in2))
+out3 = not in2

@@ -1,0 +1,10 @@
+//Name:Anik Singha
+//Email:anik.singha68@myhunter.cuny.edu
+//Date: November 30 2021
+
+git clone https://github.com/HunterCSci127/CSci127
+cd CSci127
+mkdir myprojectfiles
+mv nestingPolygons.py myprojectfiles
+mkdir pictures 
+mv *.png pictures

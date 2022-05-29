@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Name: Anik Singha
+#Email: anik.singha68@myhunter.cuny.edu
+#Date: September 26, 2021
+#Bash Script
+
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"
